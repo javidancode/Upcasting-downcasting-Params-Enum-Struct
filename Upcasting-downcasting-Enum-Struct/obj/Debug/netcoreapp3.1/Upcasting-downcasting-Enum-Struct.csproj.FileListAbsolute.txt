@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.exe
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.deps.json
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.runtimeconfig.json
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.dll
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\bin\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.pdb
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.dll
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.pdb
+C:\Users\ASUS\source\repos\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\Upcasting-downcasting-Enum-Struct\obj\Debug\netcoreapp3.1\Upcasting-downcasting-Enum-Struct.genruntimeconfig.cache

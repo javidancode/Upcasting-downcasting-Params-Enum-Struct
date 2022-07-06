@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Upcasting-downcasting-Enum-Struct/1.0.0": {
+        "runtime": {
+          "Upcasting-downcasting-Enum-Struct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upcasting-downcasting-Enum-Struct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
